@@ -10,7 +10,6 @@ Uma aplicação simples de Lista de Tarefas (To-Do List) feita com HTML, CSS e J
 - [Como Usar](#como-usar)
 - [Instalação](#instalação)
 - [Contribuição](#contribuição)
-- [Licença](#licença)
 
 ## Visão Geral
 
