@@ -8,8 +8,6 @@ Uma aplicação simples de Lista de Tarefas (To-Do List) feita com HTML, CSS e J
 - [Funcionalidades](#funcionalidades)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Como Usar](#como-usar)
-- [Instalação](#instalação)
-- [Contribuição](#contribuição)
 
 ## Visão Geral
 
@@ -36,14 +34,3 @@ Essa aplicação de lista de tarefas permite que você adicione e gerencie suas 
 3. Insira novas tarefas no campo de entrada e clique no botão "Adicionar Tarefa".
 4. Clique sobre o texto de uma tarefa para marcá-la como concluída.
 5. Clique no botão "Remover" para deletar uma tarefa.
-
-## Instalação
-
-### Clonando o Repositório
-
-Para clonar e rodar o projeto localmente, siga os passos abaixo:
-
-1. Clone o repositório:
-
-   ```bash
-   git clone https://github.com/seu-usuario/lista-de-tarefas.git
